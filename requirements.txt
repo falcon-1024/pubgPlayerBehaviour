@@ -1,0 +1,7 @@
+pandas
+numpy
+selenium
+xmltojson
+re
+lxml
+json
